@@ -1,7 +1,6 @@
 # Screenshot
 
-https://github.com/MathewWang/MWWaveAndArroundCircle/blob/master/OnePiece.gif
-
+ ![image](https://github.com/MathewWang/MWWaveAndArroundCircle/blob/master/OnePiece.gif)
 
 # MWWaveAndArroundCircle
 two small waving circle rounding a big waving circle.
